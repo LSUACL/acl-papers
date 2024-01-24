@@ -4,8 +4,3 @@ The purpose of this repository is to create an archive of all papers published b
 
 This repository will be sorted by last name alphabetical.
 
-Current authors:
-
-* DONZE, Daniel
-* GLASS, Charles
-* METTIG, Raphaela 
